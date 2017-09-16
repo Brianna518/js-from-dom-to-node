@@ -51,6 +51,10 @@ To run your code, you can type `nodejs index.js`. `nodejs` is the node code runn
 Hello, World!
 ```
 
+FYI: if still cannot see the word: Hello, World! 
+Make sure to save file after adding code to 'index.js' and try to run again.
+
+
 Woot! It worked. You just wrote your first Javascript outside of the browser. Now let's submit it back to Learn. In your terminal type `learn submit`. This will send your code up to Learn and you may move on to the next lesson. 
 
 #### Possible Errors
